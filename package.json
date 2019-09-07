@@ -1,0 +1,23 @@
+{
+  "name": "webcam-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarimovDev/webcam-example.git"
+  },
+  "author": "Karimov Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarimovDev/webcam-example/issues"
+  },
+  "homepage": "https://github.com/KarimovDev/webcam-example#readme",
+  "dependencies": {
+    "tracking": "^1.1.3",
+    "webcamjs": "^1.0.25"
+  }
+}
